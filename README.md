@@ -5,9 +5,9 @@ https://github.com/AbeerAlshalawi/esnad-frontend
 https://github.com/AbeerAlshalawi/esnad-backend
 
 # What is used in the model
-python=3.10
-WSL -> Ubuntu
-you can check the rest from requirements.txt file
+python==3.10 <br>
+WSL2 -> Ubuntu <br>
+you can check the rest from requirements.txt file <br>
 
 ## What is in this repo?
 1- the `RAG system` with its multiple versions (the last one so far is v7 of .py).
